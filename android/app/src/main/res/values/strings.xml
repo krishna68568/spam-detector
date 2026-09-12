@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">SpamShield</string>
+    <string name="title_activity_main">SpamShield</string>
+    <string name="package_name">com.krishna.spamshield</string>
+    <string name="custom_url_scheme">com.krishna.spamshield</string>
+</resources>
